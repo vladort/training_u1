@@ -2,3 +2,4 @@
 .vsc
 node_modules
 *.lock
+task_collaboration.txt
